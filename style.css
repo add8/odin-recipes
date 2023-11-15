@@ -1,0 +1,38 @@
+* {font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background-color: blanchedalmond;
+    color: rgb(42, 107, 107);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    background-color: black;
+    text-indent: 4%;
+    color:white;
+}
+
+img {
+    padding-left: 15px;
+}
+
+a {
+    color: crimson;
+    font-size: 18px;
+}
+
+p {
+    padding-right: 10px;
+    padding-left: 40px;
+    color: rgb(117, 113, 113);
+}:
+
+ul {
+    font-style: italic;
+}
+
+ul > li {
+    font-style: italic;
+}
